@@ -1,0 +1,178 @@
+{
+    "recipes" : [
+        {
+            "id" : 1,
+            "title" : "Pasta with Tomato Sauce",
+            "ingredients" : [
+                "pasta",
+                "tomato sauce",
+                "olive oil",
+                "salt"
+            ],
+            "directions" : [
+                "Boil water in a pot",
+                "Add pasta to boiling water",
+                "Cook pasta until al dente",
+                "Drain pasta",
+                "Add tomato sauce to pasta",
+                "Add olive oil and salt to pasta",
+                "Mix well and serve"
+            ],
+            "source" : "foodnetwork.com"
+        },
+        {
+            "id" : 2,
+            "title" : "Grilled Cheese Sandwich",
+            "ingredients" : [
+                "bread",
+                "cheese",
+                "butter"
+            ],
+            "directions" : [
+                "Heat skillet over medium heat",
+                "Butter one side of each slice of bread",
+                "Place one slice of bread, butter side down, in skillet",
+                "Add cheese on top of bread",
+                "Place second slice of bread, butter side up, on top of cheese",
+                "Cook until bread is golden brown",
+                "Flip sandwich and cook until second side is golden brown",
+                "Serve hot"
+            ],
+            "source" : "allrecipes.com"
+        },
+        {
+            "id" : 3,
+            "title" : "Caesar Salad",
+            "ingredients" : [
+                "romaine lettuce",
+                "croutons",
+                "parmesan cheese",
+                "caesar dressing"
+            ],
+            "directions" : [
+                "Wash and chop romaine lettuce",
+                "Add croutons and parmesan cheese to lettuce",
+                "Add caesar dressing to lettuce",
+                "Toss salad until well mixed",
+                "Serve cold"
+            ],
+            "source" : "food.com"
+        },
+        {
+            "id" : 4,
+            "title" : "Chocolate Chip Cookies",
+            "ingredients" : [
+                "flour",
+                "sugar",
+                "butter",
+                "chocolate chips",
+                "bacon"
+            ],
+            "directions" : [
+                "Preheat oven to 350 degrees",
+                "Cream butter and sugar together",
+                "Add flour to butter and sugar mixture",
+                "Mix in chocolate chips",
+                "Scoop dough onto baking sheet",
+                "Bake for 10-12 minutes",
+                "Let cookies cool before serving"
+            ],
+            "source" : "joyofbaking.com"
+        },
+        {
+            "id" : 5,
+            "title" : "Chicken Stir Fry",
+            "ingredients" : [
+                "chicken breast",
+                "vegetables",
+                "soy sauce",
+                "oil"
+            ],
+            "directions" : [
+                "Cut chicken breast into bite-sized pieces",
+                "Heat oil in a wok or skillet",
+                "Add chicken to wok and cook until browned",
+                "Add vegetables to wok and cook until tender",
+                "Add soy sauce to wok and stir well",
+                "Serve hot over rice"
+            ],
+            "source" : "cookinglight.com"
+        },
+        {
+            "id" : 6,
+            "title" : "Spaghetti Carbonara",
+            "ingredients" : [
+                "spaghetti",
+                "bacon",
+                "eggs",
+                "parmesan cheese"
+            ],
+            "directions" : [
+                "Cook spaghetti according to package instructions",
+                "Cook bacon in a skillet until crispy",
+                "Whisk eggs and parmesan cheese together in a bowl",
+                "Drain spaghetti and add to skillet with bacon",
+                "Add egg and cheese mixture to skillet and stir well",
+                "Serve hot"
+            ],
+            "source" : "foodnetwork.com"
+        },
+        {
+            "id" : 7,
+            "title" : "Tacos",
+            "ingredients" : [
+                "ground beef",
+                "taco seasoning",
+                "tortillas",
+                "toppings"
+            ],
+            "directions" : [
+                "Cook ground beef in a skillet",
+                "Add taco seasoning and water to skillet",
+                "Simmer until beef is cooked through",
+                "Warm tortillas in a skillet or microwave",
+                "Fill tortillas with beef and desired toppings",
+                "Serve hot"
+            ],
+            "source" : "allrecipes.com"
+        },
+        {
+            "id" : 8,
+            "title" : "Chicken Parmesan",
+            "ingredients" : [
+                "chicken breast",
+                "bread crumbs",
+                "marinara sauce",
+                "mozzarella cheese"
+            ],
+            "directions" : [
+                "Preheat oven to 375 degrees",
+                "Coat chicken breast in bread crumbs",
+                "Bake chicken in oven until cooked through",
+                "Top chicken with marinara sauce and mozzarella cheese",
+                "Bake until cheese is melted and bubbly",
+                "Serve hot over pasta"
+            ],
+            "source" : "food.com"
+        },
+        {
+            "id" : 9,
+            "title" : "Beef Stew",
+            "ingredients" : [
+                "beef",
+                "potatoes",
+                "carrots",
+                "onions"
+            ],
+            "directions" : [
+                "Cut beef into bite-sized pieces",
+                "Brown beef in a pot",
+                "Add vegetables to pot",
+                "Cover with water and simmer until beef is tender",
+                "Season with salt and pepper",
+                "Serve hot"
+            ],
+            "source" : "cookinglight.com"
+        }
+    ]
+}
